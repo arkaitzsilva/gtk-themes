@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Colloid-Dark-Compact-Nord
+Name=Colloid-nord-compact
 Comment=An Flat Gtk+ theme based on Elegant Design
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Colloid-Dark-Compact-Nord
-MetacityTheme=Colloid-Dark-Compact-Nord
+GtkTheme=Colloid-nord-compact
+MetacityTheme=Colloid-nord-compact
 IconTheme=Adwaita
 CursorTheme=Adwaita
